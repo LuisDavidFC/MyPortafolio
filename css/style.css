@@ -504,8 +504,10 @@ h3 {
   color: white;
   font-size: 3rem;
   color: white (1, 196, 196);
-}rgb(255, 255, 255)
-
+}
+.services_container i {
+  color: rgb(0, 0, 0);
+}
 .services_container h3 {
   font-size: 1.5rem;
   font-weight: 800;
